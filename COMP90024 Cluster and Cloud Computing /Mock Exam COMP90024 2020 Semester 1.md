@@ -16,6 +16,7 @@ Replica number [1]
 Number of shards [1]
 Read quorum [1]
 Write quorum [1]
+
 D.) Describe the three different Apache SPARK runtime modes:
 
 Local [1]
